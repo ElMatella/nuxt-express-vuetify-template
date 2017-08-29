@@ -1,9 +1,9 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/904724/22470179/b84f58d8-e7ce-11e6-995b-0933711ca566.png"></p>
 
 
-# Nuxt.js with Express
+# Nuxt.js with Express and Vuetify
 
-> [ExpressJS](http://expressjs.com/) + [Nuxt.js](https://nuxtjs.org) = :zap:
+> [ExpressJS](http://expressjs.com/) + [Nuxt.js](https://nuxtjs.org) + [Vuetify](https://vuetifyjs.com/) = :zap::zap:
 
 ## Installation
 
@@ -25,7 +25,7 @@ npm install # or yarn install
 ## Commands
 
 | Command | Description |
-|---------|-------------|
+|---|---|
 | npm run dev | Start ExpressJS server in development with Nuxt.js in dev mode (hot reloading). Listen on [http://localhost:3000](http://localhost:3000). |
 | npm run build | Build the nuxt.js web application for production. |
 | npm start | Start ExpressJS server in production. |

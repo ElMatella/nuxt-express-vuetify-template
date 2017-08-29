@@ -1,5 +1,8 @@
+{{{{raw}}}}
 <template>
-  <footer>
-    Visit our website for more documentation : <a href="https://nuxtjs.org" target="_blank">nuxtjs.org</a>
-  </footer>
+  <v-footer class="pa-3">
+    <v-spacer></v-spacer>
+    <div>© {{ new Date().getFullYear() }}</div>
+  </v-footer>
 </template>
+{{{{/raw}}}}

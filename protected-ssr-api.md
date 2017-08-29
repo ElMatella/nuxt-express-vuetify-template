@@ -24,4 +24,3 @@ router: {
   middleware: ['ssr-cookie']
 }
 ```
-
